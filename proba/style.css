@@ -1,0 +1,30 @@
+header {
+    text-align: center;
+    letter-spacing: 2px;
+    background: #FFF0F5;
+    color: #A52A2A;
+    border-bottom: 5px outset #FFE4E1;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #A52A2A;
+   
+}
+
+h2 {
+ 
+   
+    color: #A52A2A;
+   
+}
+footer {
+    font-size: 40px;
+    color: #A52A2A;
+    background-color:#FFF0F5;
+}
+.linkedlist {
+
+    background: #D8BFD8;
+}
